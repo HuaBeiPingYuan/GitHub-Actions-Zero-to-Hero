@@ -1,4 +1,7 @@
 def add(a, b):
+    """
+    Returns the result of a + b.
+    """
     return a + b
 
 # Example usage
